@@ -1,2 +1,2 @@
-# Sintak
+# ptrapamungkas
 Created with CodeSandbox
