@@ -33,3 +33,10 @@ h2 {
   font-size: 20px;
   font-family: montserrat;
 }
+
+body {
+  background-image: url("2.jpg");
+  background-position: center;
+  background-size: 100 % 100%;
+  background-attachment: fixed;
+}
